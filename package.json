@@ -5,11 +5,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gal Shahar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "WS - ex0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glshahar/ws-ex0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glshahar/ws-ex0/issues"
+  },
+  "homepage": "https://github.com/glshahar/ws-ex0#readme"
 }
